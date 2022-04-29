@@ -1,4 +1,4 @@
-- 👋 Hi, iam @AldairbotHerotaku because i forgot another account password @AldairSoraki
+- 👋 Hi, i am @AldairbotHerotaku because i forgot my another account password @AldairSoraki
 - 👀 I quite like systems like lineageOS and GrapheneOS
 - 🌱 Trying to lern JavaScript, Python and Golang
 
