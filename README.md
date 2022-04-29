@@ -1,4 +1,6 @@
-- 👋 Hola soy @AldairbotHerotaku porque mi nombre ya estaba ocupado
-- 👀 Estoy interesado en el AOSP
-- 🌱 Estoy aprendiendo js, python y golang
-Ao
+- 👋 Hi, iam @AldairbotHerotaku because i forgot another account password @AldairSoraki
+- 👀 I quite like systems like lineageOS and GrapheneOS
+- 🌱 Trying to lern JavaScript, Python and Golang
+
+I'm not a developer, I don't know how to code but I upload some useful scripts
+I use arch btw
